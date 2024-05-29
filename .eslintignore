@@ -1,0 +1,10 @@
+public
+dist
+*.d.ts
+/src/assets
+package.json
+.eslintrc.js
+.prettierrc.js
+commitlint.config.js
+stylelint.config.js
+src/
